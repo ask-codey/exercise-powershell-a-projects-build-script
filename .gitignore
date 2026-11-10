@@ -1,0 +1,4 @@
+dist/
+release/
+server/
+testResults.xml
